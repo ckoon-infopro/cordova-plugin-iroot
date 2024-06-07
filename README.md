@@ -2,7 +2,6 @@
 [![Android][android-shield]][cordova-android-link]
 [![iOS][ios-shield]][cordova-ios-link]
 [![License][license-shield]](LICENSE)
-[![BuyMeCoffee][buymecoffee-shield]][buymecoffee-link]
 
 <p align="center">
   <img src="/assets/logo.png">
@@ -105,9 +104,6 @@ Based on:
 5. Magestic detect
 
 [license-shield]:https://img.shields.io/github/license/ckoon-infopro/cordova-plugin-iroot?style=flat
-
-[buymecoffee-link]: https://www.buymeacoffee.com/aesaythx?style=flat
-[buymecoffee-shield]: https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg?style=flat
 
 [version-shield]: https://img.shields.io/github/package-json/v/ckoon-infopro/cordova-plugin-iroot?color=green
 
