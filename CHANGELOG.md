@@ -2,6 +2,10 @@
 
 ## Version History
 
+### 3.3.0
+
+- Updated emulator detection for Android
+
 ### 3.2.0
 
 - Added Palera1n jailbreak detection
