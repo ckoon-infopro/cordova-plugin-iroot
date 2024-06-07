@@ -316,8 +316,8 @@ public class InternalRootDetection {
 
          boolean checkGenymotion = Build.MANUFACTURER.contains("Genymotion");
          boolean checkGeneric = Build.FINGERPRINT.startsWith("generic") || (Build.BRAND.startsWith("generic") && Build.DEVICE.startsWith("generic"));
-         boolean checkGoogleSDK = Build.MODEL.contains("google_sdk") || "google_sdk".equals(Build.PRODUCT);
-
+         boolean checkGoogleSDK = Build.MODEL.contains("google_sdk") || "google_sdk".equals(Build.PRODUCT) || Build.MODEL.contains("sdk_gphone") || Build.DEVICE.equals("emu64xa");
+         
          boolean result = simpleCheck || checkGenymotion || checkGeneric || checkGoogleSDK;
 
          LOG.d(
