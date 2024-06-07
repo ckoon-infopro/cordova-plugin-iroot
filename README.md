@@ -104,12 +104,12 @@ Based on:
 5. Frida detect
 5. Magestic detect
 
-[license-shield]:https://img.shields.io/github/license/WuglyakBolgoink/cordova-plugin-iroot?style=flat
+[license-shield]:https://img.shields.io/github/license/ckoon-infopro/cordova-plugin-iroot?style=flat
 
 [buymecoffee-link]: https://www.buymeacoffee.com/aesaythx?style=flat
 [buymecoffee-shield]: https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg?style=flat
 
-[version-shield]: https://img.shields.io/github/package-json/v/WuglyakBolgoink/cordova-plugin-iroot?color=green
+[version-shield]: https://img.shields.io/github/package-json/v/ckoon-infopro/cordova-plugin-iroot?color=green
 
 [android-shield]: https://img.shields.io/badge/cordova-android-green.svg?style=flat&logo=apache-cordova
 [cordova-android-link]: https://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html
